@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1b9b2cd-3784-494e-b3d8-2ec0c9b68e29" name="Default Changelist" comment="" />
+    <list default="true" id="e1b9b2cd-3784-494e-b3d8-2ec0c9b68e29" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_thaliasahed/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_thaliasahed/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1p74rEF8xy5NveVsgQipYzrSt0I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/startbootstrap-freelancer-gh-pages/assets/img/portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -33,6 +43,9 @@
       <option name="presentableId" value="Default" />
       <updated>1614520991943</updated>
       <workItem from="1614520993393" duration="15438000" />
+      <workItem from="1615157617147" duration="591000" />
+      <workItem from="1616151343531" duration="645000" />
+      <workItem from="1616162933183" duration="816000" />
     </task>
     <servers />
   </component>
@@ -44,9 +57,17 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1170" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1614534188920" />
-    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1614521953638">
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1616151434843">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1614521953638" />
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1616151434843" />
+    <state x="810" y="422" key="Github.ShareDialog" timestamp="1615157823432">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="810" y="422" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1615157823432" />
+    <state x="753" y="229" key="Github.UntrackedFilesDialog" timestamp="1615157836722">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="753" y="229" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1615157836722" />
   </component>
 </project>
