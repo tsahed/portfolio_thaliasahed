@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1b9b2cd-3784-494e-b3d8-2ec0c9b68e29" name="Default Changelist" comment="html ok">
+    <list default="true" id="e1b9b2cd-3784-494e-b3d8-2ec0c9b68e29" name="Default Changelist" comment="veille a terminer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio_thaliasahed/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_thaliasahed/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_thaliasahed/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_thaliasahed/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../symfony/cookle" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -65,25 +64,55 @@
       <workItem from="1615157617147" duration="591000" />
       <workItem from="1616151343531" duration="645000" />
       <workItem from="1616162933183" duration="816000" />
-      <workItem from="1616366409877" duration="2546000" />
+      <workItem from="1616366409877" duration="3309000" />
+      <workItem from="1616416904511" duration="44000" />
+      <workItem from="1617390570488" duration="9000" />
     </task>
+    <task id="LOCAL-00001" summary="veille a terminer">
+      <created>1616370134215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616370134215</updated>
+    </task>
+    <task id="LOCAL-00002" summary="veille a terminer">
+      <created>1616370140830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616370140830</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="veille a terminer" />
+    <option name="LAST_COMMIT_MESSAGE" value="veille a terminer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1170" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614534188920">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1170" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1614534188920" />
-    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1616151434843">
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1616416943483">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1616151434843" />
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1616416943483" />
     <state x="810" y="422" key="Github.ShareDialog" timestamp="1615157823432">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -92,5 +121,13 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="753" y="229" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1615157836722" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1616370158722">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1616370158722" />
+    <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616370725990">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1616370725990" />
   </component>
 </project>
