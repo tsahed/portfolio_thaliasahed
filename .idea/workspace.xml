@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1b9b2cd-3784-494e-b3d8-2ec0c9b68e29" name="Default Changelist" comment="veille terminer">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_thaliasahed/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_thaliasahed/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio_thaliasahed/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_thaliasahed/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +70,7 @@
       <workItem from="1616416904511" duration="44000" />
       <workItem from="1617390570488" duration="9000" />
       <workItem from="1617927063579" duration="676000" />
+      <workItem from="1618053770877" duration="1422000" />
     </task>
     <task id="LOCAL-00001" summary="veille a terminer">
       <created>1616370134215</created>
